@@ -5,7 +5,8 @@
 		"result": {
 			"referrer": {
 				"type": "search",
-				"engine": "google"
+				"engine": "google",
+				"host": "www.google.co.uk"
 			}
 		}
 	},
@@ -108,6 +109,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "google",
+				"host": "www.google.com",
 				"query": "hello how are you"
 			}
 		}
@@ -119,6 +121,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "google",
+				"host": "www.google.co.uk",
 				"query": "i hope the british version works"
 			}
 		}
@@ -292,10 +295,11 @@
 	},
 	{
 		"url": "https://www.prezly.com/academy/basics/11-ways-brands-can-earn-credibility",
-		"referrer": "https://www.google.com/",
+		"referrer": "https://www.google.be/",
 		"result": {
 			"referrer": {
 				"type": "search",
+				"host": "www.google.be",
 				"engine": "google"
 			}
 		}
@@ -307,6 +311,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "google",
+				"host": "www.google.com.ar",
 				"query": "marilyn designs"
 			}
 		}
@@ -365,6 +370,7 @@
 		"result": {
 			"referrer": {
 				"engine": "google",
+				"host": "www.google.com",
 				"type": "search"
 			}
 		}
@@ -445,6 +451,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "google",
+				"host": "www.google.com",
 				"query": "Segment.io"
 			}
 		}

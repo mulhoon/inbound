@@ -1,6 +1,6 @@
 {
   "name": "prezly-inbound",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Url referrer and campaign parsing utilities",
   "author": "Gijs Nelissen <gijs@segment.io>",
   "engines": {
