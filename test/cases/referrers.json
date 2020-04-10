@@ -291,6 +291,16 @@
 		}
 	},
 	{
+		"url": "https://www.prezly.com/academy/basics/11-ways-brands-can-earn-credibility",
+		"referrer": "https://www.google.com/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "google"
+			}
+		}
+	},
+	{
 		"url": "https://www.boutine.com/products/long-gold-plated-earrings-with-blue-chalcedony-drops",
 		"referrer": "http://www.google.com.ar/url?sa=t&rct=j&q=marilyn%20designs&source=web&cd=9&sqi=2&ved=0CG0QFjAI&url=https%3A%2F%2Fwww.boutine.com%2Faliciamarilyndesigns-com&ei=F-y-T9erKMT76gGD6aDMCg&usg=AFQjCNHtsVRoSKz5Mb7XYngbTAKKiZWycQ",
 		"result": {
@@ -354,10 +364,8 @@
 		"referrer": "https://www.google.com/",
 		"result": {
 			"referrer": {
-				"type": "referral",
-				"host": "www.google.com",
-				"from": "https://www.google.com/",
-				"link": "https://news.google.com/nwshp?hl=en&tab=wn"
+				"engine": "google",
+				"type": "search"
 			}
 		}
 	},
