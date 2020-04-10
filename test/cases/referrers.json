@@ -168,23 +168,13 @@
 		}
 	},
 	{
-		"url": "http://www.hanintel.com/",
-		"referrer": "http://search.nate.com/search/all.html?s=&sc=&afc=&j=&thr=sbma&nq=&q=hanintel",
-		"result": {
-			"referrer": {
-				"type": "search",
-				"engine": "nate",
-				"query": "hanintel"
-			}
-		}
-	},
-	{
 		"url": "http://blog.intercom.io/churn-retention-and-reengaging-customers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+contrast%2Fblog+%28The+Intercom+Blog%29",
 		"referrer": "http://hypem.com/blog/indie+rock+cafe/12289",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
 				"from": "http://hypem.com/blog/indie+rock+cafe/12289",
+				"host": "hypem.com",
 				"link": "http://blog.intercom.io/churn-retention-and-reengaging-customers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+contrast%2Fblog+%28The+Intercom+Blog%29"
 			},
 			"campaign": {
@@ -293,7 +283,8 @@
 		"referrer": "http://www.digitalstyledigest.com/2012/03/a-night-at-fashion-tech-sf-fashion-startups/",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "www.digitalstyledigest.com",
 				"from": "http://www.digitalstyledigest.com/2012/03/a-night-at-fashion-tech-sf-fashion-startups/",
 				"link": "https://www.boutine.com/"
 			}
@@ -351,7 +342,8 @@
 		"referrer": "http://www.codeyear.com/",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "www.codeyear.com",
 				"from": "http://www.codeyear.com/",
 				"link": "http://www.codecademy.com/tracks/code-year"
 			}
@@ -362,7 +354,8 @@
 		"referrer": "https://www.google.com/",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "www.google.com",
 				"from": "https://www.google.com/",
 				"link": "https://news.google.com/nwshp?hl=en&tab=wn"
 			}
@@ -373,7 +366,8 @@
 		"referrer": "http://blog.enoughtobedanger.us/",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "blog.enoughtobedanger.us",
 				"from": "http://blog.enoughtobedanger.us/",
 				"link": "hhttp://enoughtobedanger.us/"
 			}
@@ -384,7 +378,8 @@
 		"referrer": "https://stripe.com/blog",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "stripe.com",
 				"from": "https://stripe.com/blog",
 				"link": "https://manage.stripe.com/login?redirect=%2Faccount"
 			}
@@ -416,7 +411,8 @@
 		"referrer": "http://ianstormtaylor.com/design-tip-never-use-black/?utm_source=swissmiss&utm_campaign=5b5c06f57c-RSS_EMAIL_CAMPAIGN&utm_medium=email",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "ianstormtaylor.com",
 				"from": "http://ianstormtaylor.com/design-tip-never-use-black/?utm_source=swissmiss&utm_campaign=5b5c06f57c-RSS_EMAIL_CAMPAIGN&utm_medium=email",
 				"link": "https://segment.io/"
 			}
@@ -427,7 +423,8 @@
 		"referrer": "http://ianstormtaylor.com/",
 		"result": {
 			"referrer": {
-				"type": "link",
+				"type": "referral",
+				"host": "ianstormtaylor.com",
 				"from": "http://ianstormtaylor.com/",
 				"link": "https://segment.io/"
 			}
