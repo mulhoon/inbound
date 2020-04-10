@@ -1,13 +1,13 @@
 {
-  "name": "sweet-inbound",
-  "version": "1.0.6",
+  "name": "prezly-inbound",
+  "version": "1.0.1",
   "description": "Url referrer and campaign parsing utilities",
-  "author": "Ilya Volodarsky <ilya@segment.io>, Adam Solove <asolove@gmail.com>",
+  "author": "Gijs Nelissen <gijs@segment.io>",
   "engines": {
     "node": ">= 0.8"
   },
   "main": "./index",
-  "repository": "git://github.com/segmentio/inbound",
+  "repository": "git://github.com/digitalbase/inbound",
   "scripts": {
     "test": "mocha --reporter spec"
   },
@@ -19,8 +19,5 @@
   "devDependencies": {
     "should": "*",
     "mocha": "*"
-  },
-  "publishConfig": {
-    "registry": "https://registry.segment.io"
   }
 }
