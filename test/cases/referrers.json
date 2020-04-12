@@ -672,6 +672,23 @@
 		}
 	},
 	{
+		"url": "http://www.prezly.com/academy/relationships/influencer-marketing?utm_source=nurture&utm_medium=email&__s=77a57spzktkpnqanrqzb&utm_source=nurture&utm_medium=email&utm_campaign=Prezly&utm_content=Grow+your+PR+database+and+become+fluent+in+influencer+marketing",
+		"referrer": "https://mail.google.com/_/mail-static/_/js/main/m_i,t/rt=h/ver=am293eyFlXI.en./sv=1/am=!v8Czf-oeNMn1FOzaNKsLQrJy-oNN3RSSYMAZTBUxCzwgQcXtLnTEHCkGr437GpFE2Dliuw/d=1",
+		"result": {
+			"campaign": {
+				"campaign": "Prezly",
+				"medium": "email",
+				"source": "nurture"
+			},
+			"referrer": {
+				"client": "gmail",
+				"from": "https://mail.google.com/_/mail-static/_/js/main/m_i,t/rt=h/ver=am293eyFlXI.en./sv=1/am=!v8Czf-oeNMn1FOzaNKsLQrJy-oNN3RSSYMAZTBUxCzwgQcXtLnTEHCkGr437GpFE2Dliuw/d=1",
+				"link": "http://www.prezly.com/academy/relationships/influencer-marketing?utm_source=nurture&utm_medium=email&__s=77a57spzktkpnqanrqzb&utm_source=nurture&utm_medium=email&utm_campaign=Prezly&utm_content=Grow+your+PR+database+and+become+fluent+in+influencer+marketing",
+				"type": "email"
+			}
+		}
+	},
+	{
 		"url": null,
 		"referrer": "about:blank",
 		"result": {
