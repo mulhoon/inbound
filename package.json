@@ -1,6 +1,6 @@
 {
   "name": "prezly-inbound",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Url referrer and campaign parsing utilities",
   "author": "Gijs Nelissen <gijs@segment.io>",
   "engines": {
@@ -12,9 +12,9 @@
     "test": "mocha --reporter spec"
   },
   "dependencies": {
-    "underscore": "*",
     "async": "*",
-    "tldextract": "*"
+    "tld-extract": "^1.1.2",
+    "underscore": "*"
   },
   "devDependencies": {
     "should": "*",
